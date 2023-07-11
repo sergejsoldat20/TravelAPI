@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iCF5j8FajcMg7VQWfW6J+Sa5vt08RpiU+Khtv69p5BRWCn9uMUVl041v91kXo6CmjWo4O2HW3F6qQd+gOYMDnQ==",
+  "dgSpecHash": "EiWKKKP3Q5Usk0rd9SiEtSUrdd8NlKpDR/ylJc6BPReo4+g66QtCw8bibwwMQK1yUyXdEL3W2CEt4LRyZrvWDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\serge\\source\\repos\\Travel.API\\TravelAPI\\TravelAPI.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\serge\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",

@@ -41,3 +41,4 @@ C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Mono.TextTempl
 C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Npgsql.dll
 C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
