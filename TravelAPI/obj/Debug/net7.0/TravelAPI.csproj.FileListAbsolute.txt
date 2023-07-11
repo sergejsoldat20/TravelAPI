@@ -31,3 +31,13 @@ C:\Users\serge\source\repos\Travel.API\TravelAPI\obj\Debug\net7.0\refint\TravelA
 C:\Users\serge\source\repos\Travel.API\TravelAPI\obj\Debug\net7.0\TravelAPI.pdb
 C:\Users\serge\source\repos\Travel.API\TravelAPI\obj\Debug\net7.0\TravelAPI.genruntimeconfig.cache
 C:\Users\serge\source\repos\Travel.API\TravelAPI\obj\Debug\net7.0\ref\TravelAPI.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Npgsql.dll
+C:\Users\serge\source\repos\Travel.API\TravelAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
